@@ -1,4 +1,5 @@
 # Code 201 Reading Notes
+##### Description: This website is all about the reading notes from Code 201
 ## Table of Contents
 1. Reading material
 2. Reading material
