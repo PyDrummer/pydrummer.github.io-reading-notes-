@@ -1,6 +1,6 @@
 # Class 01 Reading notes
 
-##### I decided to create a cheat sheet that i will most likely be referring back to many times during this course.
+I decided to create a cheat sheet that i will most likely be referring back to many times during this course.
 
 ### The first few pages of **HTML & CSS** by *Jon Duckett* introduces the key pieces of HTML & CSS code. 
 
@@ -126,3 +126,5 @@ With interpreted languages each line of code is translated one-by-one.
 Javascript is added to HTML with the script element here is the example from the book so i dont forget: 
 
 <script src="js/add-content.js"></script> remember to replace the info after src="  "
+
+[Return to Main Page](https://pydrummer.github.io/pydrummer.github.io-reading-notes-/)
