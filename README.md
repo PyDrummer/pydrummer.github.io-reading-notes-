@@ -36,7 +36,4 @@ Or ***maybe*** I could us an unordered list...
   * extra note
     * wait almost forgot this note too
 
-@PyDrummer so what do you think of all this?
->"It's pretty okay"
-
 Just remember if you get discouraged here is a [motivational video](https://www.youtube.com/watch?v=CLUkwYKTj7Q/)
