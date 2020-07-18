@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
 ##### Description: This website is all about the reading notes from Code 201
 ## Table of Contents
-1. Reading material
+1. [Reading notes](https://github.com/PyDrummer/pydrummer.github.io-reading-notes-/class-01.md)
 2. Reading material
 3. Reading material
 4. Reading material
