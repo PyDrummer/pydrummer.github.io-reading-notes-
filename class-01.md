@@ -1,6 +1,6 @@
 # Class 01 Reading notes
 
-## I decided to create a cheat sheet that i will most likely be referring back to many times during this course.
+#### I decided to create a cheat sheet that i will most likely be referring back to many times during this course.
 
 ### The first few pages of **HTML & CSS** by *Jon Duckett* introduces the key pieces of HTML & CSS code. 
 
