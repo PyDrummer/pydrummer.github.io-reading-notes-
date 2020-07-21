@@ -1,8 +1,8 @@
 # Code 201 Reading Notes
 ##### Description: This website is all about the reading notes from Code 201
 ## Table of Contents
-1. [Reading notes](class-01.md)
-2. Reading material
+1. [Reading notes 01](class-01.md)
+2. [Reading notes 02](class-02.md)
 3. Reading material
 4. Reading material
 5. Reading material
