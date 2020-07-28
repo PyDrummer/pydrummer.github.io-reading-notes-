@@ -4,7 +4,7 @@
 1. [Reading notes 01](class-01.md)
 2. [Reading notes 02](class-02.md)
 3. [Reading notes 03](class-03.md)
-4. Reading material
+4. [Reading notes 04](class-04.md)
 5. Reading material
 6. Reading material
 7. Reading material
