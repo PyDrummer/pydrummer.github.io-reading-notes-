@@ -130,5 +130,32 @@ Built-in objects come with the browser and act like a toolkit for creating inter
 
 and that ends the reading on page 99.
 
+### 6 Reasons for Pair Programming
+
+#### How does it work?
+
+There is a Driver and the Navigator.
+
+The driver is the one who is typing and who's hands are currently on the keyboard. While the Navigator uses their words to guide the driver while not directly inputting anything on the computer. I like to think of the rally car racers that always has the guy with the map telling the driver "soft left corner ahead, hard right, straight away!"
+
+#### Why pair program?
+
+There are 4 fundamental skills that can help anyone learn a new language
+- Listening
+- Speaking
+- Reading
+- Writing
+
+Pair programming makes both partners utilize these different skills to solidify their learning.
+
+People have found greater efficiency while using pair programming. Two people with two sets of eyes making sure the code is looking great and flowing nicely!
+
+One of my core beliefs is that you can learn something from anyone regardless of skill level. This can be true with pair programming, you might find your partner has a much more effiencent way to write a certain function or solve a problem.
+
+This kind of programming can help with social skills as well and help you become a better communicator.
+
+A major benefit is job interview readiness. It turns out a common step in an interview process can involve pair programming with one of their current employees to work out code challenges or build a small project together.
+
+The real take away here is that you must be able to work with other people and in teams. Pair programming can promote this kind of thinking and get you ready for the real deal!
 
 [Return to Main Page](https://pydrummer.github.io/pydrummer.github.io-reading-notes-/)
