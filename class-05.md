@@ -8,7 +8,7 @@ I decided to make a tutorial based off these reading chapters
 
 We can use HTML to store images within the code and it will show up on our site.
 
-By adding a <img> tag we can tell the code we are wanting an image to show up.
+By adding a <img\> tag we can tell the code we are wanting an image to show up.
 
 Img tags will require a few other things within the tag such as
 - src the url for your image.
@@ -22,7 +22,7 @@ The three rules for creating images on your site:
 2. Saving the images in the right size
 3. Measure your images in pixels
 
-<figure> and <figcaption> for images are for adding captions to your image.
+<figure\> and <figcaption\> for images are for adding captions to your image.
 
 ### Color
 
