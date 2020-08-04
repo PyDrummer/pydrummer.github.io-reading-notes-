@@ -1,4 +1,4 @@
-# Class 05 Reading Notes
+# Class 06 Reading Notes
 
 I decided to make a tutorial based off these reading chapters
 
