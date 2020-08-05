@@ -195,3 +195,36 @@ for (var i = 0; i < elements.length; i++) {
 }
 ```
 The code above is storing all the elements with the class name 'cool' in variable elements. Then the for loop will iterate through each item. It will then change the class attribute of all these to 'hot'.
+
+#### The innerHTML propterty
+
+innerHTML can be used on any element node and it is used to retrieve and replace content.
+
+It can also be used to remove content. 
+
+### Cross-Site Scripting (XSS) Attacks
+
+If you are adding HTML to a page using innerHTML you need to be aware of this XSS attacks. Otherwise an attacker could gain access to your users' accounts.
+
+XSS happens when an attacker places malicious code into a site.
+
+Users can enter data to some websites and that data is known as untrusted data. You must treat this data with care.
+
+Here are some ways to defend against XSS:
+
+- Validate input going into the server
+- Don't allow users to submit HTML markup or JavaScript
+- Double-check all validation on the server before displaying user content or storing that content on a server.
+- Your data base must safely store any markup and scripts from trusted sources.
+
+Set up some basic filters to make sure users don't enter specific characters into the form fields.
+
+Set limits on where the user content goes. 
+
+#### Where to add User content
+
+Use the textContent or innerText with JS.
+
+Do Not use innerHTML to store user data.
+
+[Return to Main Page](https://pydrummer.github.io/pydrummer.github.io-reading-notes-/)
