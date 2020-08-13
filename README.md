@@ -8,7 +8,7 @@
 5. [Reading notes 05](class-05.md)
 6. [Reading notes 06](class-06.md)
 7. [Reading notes 07](class-07.md)
-8. Reading material
+8. [Reading notes 08](class-08.md)
 9. Reading material
 10. Reading material
 11. Reading material
