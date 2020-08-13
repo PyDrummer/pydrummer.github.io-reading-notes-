@@ -43,3 +43,5 @@ When creating your website keep in mind users might be using different sized scr
 
 - Fixed Width Layout uses pixels to decide the size of elements. You will have far greater control of the elements but it might look weird on a screen that it wasnt inteded for.
 - Liquid Layouts use percentages to stretch your elements based off their screen size. Pages will look good on a bunch of different screens but you have less control of the width.
+
+[Return to Main Page](https://pydrummer.github.io/pydrummer.github.io-reading-notes-/)
