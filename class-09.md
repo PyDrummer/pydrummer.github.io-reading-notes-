@@ -1,4 +1,4 @@
-# HTLM Forms
+# HTML Forms
 
 Let's learn how to create forms! The best known form on the web is probably the search box that sits right in the middle of Google's homepage.
 
