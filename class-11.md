@@ -51,7 +51,7 @@ Node lists can be created by finding multiple elements. When you do have a Node 
 
 Here is a quick example of how to create a node list:
 ```
-var nodeList = document.querySelectorAll('li.cool'); // this grabs all list items with the class of cool and stores them in an array.
+var nodeList = document.querySelectorAll('li.cool');
 
 for (var i = 0; i < nodeList.length; i++) {
   nodeList[i].className = 'hot';
