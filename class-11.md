@@ -59,3 +59,4 @@ for (var i = 0; i < nodeList.length; i++) {
 ```
 We just grabbed all the list items with a class of cool, stored them in an array of nodeList. Next we iterated through the length of nodeList array and changed each nodeList item's class name to 'hot'.
 
+[Return to Main Page](https://pydrummer.github.io/pydrummer.github.io-reading-notes-/)
