@@ -12,7 +12,7 @@
 9. [Reading notes 09](class-09.md)
 10. [Reading notes 10](class-10.md)
 11. [Reading notes 11](class-11.md)
-12. [Reading notes 12](class-11.md)
+12. [Reading notes 12](class-12.md)
 13. Reading material
 14. Reading material
 15. Reading material
