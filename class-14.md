@@ -37,4 +37,4 @@ If only one person spoke the collective intelligence declined.
 
 A foundation of a good team is one where the members dont get embarrassed, rejected or punish for bringing up an idea.
 
-
+[Return to Main Page](https://pydrummer.github.io/pydrummer.github.io-reading-notes-/)
