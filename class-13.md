@@ -159,3 +159,4 @@ You must use methoda provided by the object store to open a *cursor* on the data
 https://hacks.mozilla.org/2010/06/comparing-indexeddb-and-webdatabase/ <link to a walk through for the above.
 
 
+[Return to Main Page](https://pydrummer.github.io/pydrummer.github.io-reading-notes-/)
