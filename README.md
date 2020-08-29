@@ -14,7 +14,7 @@
 11. [Reading notes 11](class-11.md)
 12. [Reading notes 12](class-12.md)
 13. [Reading notes 13](class-13.md)
-14. Reading material
+14. [Reading notes 14](class-14.md)
 15. Reading material
 
 ### Before i start taking notes i should check that everything is good to go.
