@@ -35,4 +35,6 @@ As long as each team member got to speak the team did well. It's a turn-taking t
 
 If only one person spoke the collective intelligence declined.
 
+A foundation of a good team is one where the members dont get embarrassed, rejected or punish for bringing up an idea.
+
 
