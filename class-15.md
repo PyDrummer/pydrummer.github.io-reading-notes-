@@ -1,3 +1,11 @@
+# What Google Learned About Teams
+*This is a recap of last week's notes:*
+As long as each team member got to speak the team did well. It's a turn-taking thing.
+
+If only one person spoke the collective intelligence declined.
+
+A foundation of a good team is one where the members dont get embarrassed, rejected or punish for bringing up an idea.
+
 # CSS Transformations
 
 Transform is a new way to position and alter elements.
