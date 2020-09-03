@@ -15,7 +15,7 @@
 12. [Reading notes 12](class-12.md)
 13. [Reading notes 13](class-13.md)
 14. [Reading notes 14](class-14.md)
-15. Reading material
+15. [Reading notes 15](class-15.md)
 
 ### Before i start taking notes i should check that everything is good to go.
 - [x] Computer is on?
