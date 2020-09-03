@@ -1,5 +1,6 @@
 # What Google Learned About Teams
 *This is a recap of last week's notes:*
+
 As long as each team member got to speak the team did well. It's a turn-taking thing.
 
 If only one person spoke the collective intelligence declined.
