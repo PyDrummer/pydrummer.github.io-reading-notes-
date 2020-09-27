@@ -2,7 +2,7 @@
 Intermediate Software Development
 ##### Description: This website is all about the reading notes from Code 201
 ## Table of Contents
-1. [Reading notes 01](class-01.md)
+1. [Reading notes 01](301class01.md)
 2. [Reading notes 02]()
 3. [Reading notes 03]()
 4. [Reading notes 04]()
