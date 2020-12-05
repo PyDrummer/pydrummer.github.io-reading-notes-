@@ -3,6 +3,7 @@
 ## Table of Contents
 1. [Reading Notes from 201](README201.md)
 2. [Reading Notes from 301](README301.md)
+3. [Reading Notes from 401](README401.md)
 
 ### Before i start taking notes i should check that everything is good to go.
 - [x] Computer is on?
